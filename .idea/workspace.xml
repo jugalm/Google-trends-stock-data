@@ -2,1018 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faebfe55-fea0-4950-8c61-959b245c4bfe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AAL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AAPL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AAP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ABBV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ABC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ABT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ACN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADBE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADSK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ADS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AEE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AEP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AES_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AET_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AFL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AGN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AIG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AIV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AIZ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AJG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AKAM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALGN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALLE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ALXN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMAT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AME_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMGN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AMZN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ANDV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ANSS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ANTM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AON_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AOS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/APA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/APC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/APD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/APH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/APTV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ARE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ARNC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ATVI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AVB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AVGO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AVY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AWK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AXP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AYI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/AZO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/A_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BAC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BAX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BBT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BBY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BDX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BEN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BF.B_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BHF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BHGE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BIIB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BKNG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BLK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BLL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BMY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BRK.B_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BSX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BWA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/BXP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CAG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CAH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CAT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CBOE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CBRE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CBS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CCI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CCL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CDNS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CELG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CERN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CFG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CHD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CHRW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CHTR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CINF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CLX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CMA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CMCSA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CME_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CMG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CMI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CMS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CNC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CNP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COST_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/COTY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CPB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CRM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CSCO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CSRA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CSX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CTAS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CTL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CTSH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CTXS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CVS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CVX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/CXO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/C_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DAL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DFS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DGX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DHI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DHR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DISCA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DISCK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DISH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DIS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DLR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DLTR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DOV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DPS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DRE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DRI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DTE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DUK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DVA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DVN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DWDP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/DXC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/D_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EBAY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ECL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ED_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EFX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EIX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EMN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EMR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EOG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EQIX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EQR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EQT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ESRX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ESS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ES_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ETFC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ETN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ETR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EVHC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EXC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EXPD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EXPE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/EXR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FAST_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FBHS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FCX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FDX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FFIV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FISV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FIS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FITB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FLIR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FLR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FLS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FMC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FOXA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FOX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FRT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FTI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/FTV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/F_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GGP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GILD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GIS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GLW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GOOGL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GOOG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GPC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GPN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GPS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GRMN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/GWW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HAL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HAS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HBAN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HBI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HCA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HCP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HES_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HIG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HII_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HLT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HOG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HOLX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HON_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HPE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HPQ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HRB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HRL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HRS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HSIC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HST_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HSY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/HUM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IBM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ICE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IDXX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IFF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ILMN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/INCY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/INFO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/INTC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/INTU_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IPGP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IPG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IQV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IRM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ISRG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ITW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/IVZ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JBHT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JCI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JEC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JNJ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JNPR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JPM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/JWN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KEY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KHC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KIM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KLAC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KMB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KMI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KMX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KORS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KSS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/KSU_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/K_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LEG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LEN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LKQ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LLL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LLY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LMT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LNC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LNT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LOW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LRCX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LUK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LUV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/LYB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/L_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MAA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MAC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MAR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MAS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MAT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MCD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MCHP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MCK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MCO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MDLZ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MDT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MET_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MGM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MHK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MKC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MLM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MMC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MMM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MNST_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MON_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MOS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MPC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MRK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MRO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MSFT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MSI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MTB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MTD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MU_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/MYL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/M_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NAVI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NBL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NCLH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NDAQ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NEE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NEM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NFLX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NFX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NKE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NKTR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NLSN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NOC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NOV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NRG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NSC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NTAP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NTRS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NUE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NVDA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NWL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NWSA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/NWS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/OKE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/OMC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ORCL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ORLY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/OXY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/O_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PAYX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PBCT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PCAR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PCG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PEG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PEP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PFE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PFG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PGR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PHM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PKG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PKI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PLD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PNC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PNR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PNW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PPG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PPL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PRGO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PRU_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PSA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PSX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PVH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PWR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PXD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/PYPL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/QCOM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/QRVO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RCL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/REGN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/REG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RHI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RHT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RJF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RMD_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ROK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ROP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ROST_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RRC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RSG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/RTN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SBAC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SBUX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SCG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SCHW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SEE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SHW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SIVB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SJM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SLB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SLG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SNA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SNPS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SPGI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SPG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SRCL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SRE_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/STI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/STT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/STX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/STZ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SWKS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SWK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SYF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SYK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SYMC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/SYY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TAP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TDG_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TEL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TGT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TIF_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TJX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TMK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TMO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TPR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TRIP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TROW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TRV_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TSCO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TSN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TSS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TTWO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TWX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TXN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/TXT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/T_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UAA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UAL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UDR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UHS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ULTA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UNH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UNM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UNP_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UPS_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/URI_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/USB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/UTX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VAR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VFC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VIAB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VLO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VMC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VNO_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VRSK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VRSN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VRTX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VTR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/VZ_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/V_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WAT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WBA_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WDC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WEC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WELL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WFC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WHR_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WLTW_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WMB_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WMT_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WRK_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WU_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WYNN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WYN_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/WY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XEC_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XEL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XLNX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XOM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XRAY_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XRX_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/XYL_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/YUM_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ZBH_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ZION_gt.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/google_trends/ZTS_gt.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AAL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AAL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AAPL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AAPL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AAP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AAP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ABBV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ABBV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ABC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ABC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ABT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ABT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ACN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ACN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADBE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADBE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADSK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADSK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ADS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ADS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AEE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AEE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AEP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AEP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AES_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AES_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AET_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AET_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AFL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AFL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AGN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AGN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AIG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AIG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AIV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AIV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AIZ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AIZ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AJG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AJG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AKAM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AKAM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALGN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALGN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALLE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALLE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ALXN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ALXN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMAT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMAT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AME_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AME_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMGN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMGN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AMZN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AMZN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ANDV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ANDV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ANSS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ANSS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ANTM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ANTM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AON_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AON_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AOS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AOS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/APA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/APA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/APC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/APC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/APD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/APD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/APH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/APH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/APTV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/APTV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ARE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ARE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ARNC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ARNC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ATVI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ATVI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AVB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AVB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AVGO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AVGO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AVY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AVY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AWK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AWK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AXP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AXP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AYI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AYI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/AZO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/AZO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/A_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/A_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BAC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BAC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BAX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BAX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BBT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BBT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BBY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BBY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BDX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BDX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BEN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BEN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BF.B_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BF.B_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BHF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BHF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BHGE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BHGE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BIIB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BIIB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BKNG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BKNG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BLK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BLK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BLL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BLL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BMY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BMY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BRK.B_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BRK.B_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BSX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BSX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BWA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BWA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/BXP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/BXP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CAG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CAG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CAH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CAH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CAT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CAT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CBOE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CBOE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CBRE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CBRE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CBS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CBS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CCI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CCI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CCL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CCL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CDNS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CDNS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CELG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CELG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CERN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CERN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CFG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CFG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CHD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CHD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CHRW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CHRW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CHTR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CHTR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CINF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CINF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CLX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CLX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CMA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CMA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CMCSA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CMCSA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CME_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CME_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CMG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CMG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CMI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CMI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CMS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CMS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CNC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CNC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CNP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CNP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COST_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COST_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/COTY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/COTY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CPB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CPB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CRM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CRM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CSCO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CSCO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CSRA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CSRA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CSX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CSX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CTAS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CTAS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CTL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CTL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CTSH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CTSH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CTXS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CTXS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CVS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CVS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CVX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CVX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/CXO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/CXO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/C_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/C_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DAL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DAL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DFS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DFS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DGX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DGX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DHI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DHI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DHR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DHR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DISCA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DISCA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DISCK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DISCK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DISH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DISH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DIS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DIS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DLR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DLR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DLTR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DLTR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DOV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DOV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DPS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DPS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DRE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DRE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DRI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DRI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DTE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DTE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DUK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DUK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DVA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DVA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DVN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DVN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DWDP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DWDP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/DXC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/DXC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/D_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/D_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EBAY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EBAY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ECL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ECL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ED_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ED_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EFX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EFX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EIX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EIX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EMN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EMN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EMR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EMR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EOG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EOG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EQIX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EQIX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EQR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EQR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EQT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EQT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ESRX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ESRX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ESS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ESS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ES_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ES_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ETFC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ETFC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ETN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ETN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ETR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ETR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EVHC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EVHC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EXC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EXC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EXPD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EXPD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EXPE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EXPE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/EXR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/EXR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FAST_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FAST_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FBHS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FBHS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FCX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FCX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FDX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FDX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FFIV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FFIV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FISV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FISV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FIS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FIS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FITB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FITB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FLIR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FLIR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FLR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FLR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FLS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FLS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FMC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FMC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FOXA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FOXA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FOX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FOX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FRT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FRT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FTI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FTI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/FTV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/FTV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/F_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/F_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GGP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GGP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GILD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GILD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GIS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GIS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GLW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GLW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GOOGL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GOOGL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GOOG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GOOG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GPC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GPC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GPN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GPN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GPS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GPS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GRMN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GRMN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/GWW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/GWW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HAL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HAL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HAS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HAS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HBAN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HBAN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HBI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HBI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HCA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HCA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HCP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HCP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HES_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HES_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HIG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HIG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HII_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HII_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HLT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HLT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HOG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HOG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HOLX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HOLX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HON_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HON_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HPE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HPE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HPQ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HPQ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HRB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HRB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HRL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HRL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HRS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HRS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HSIC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HSIC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HST_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HST_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HSY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HSY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/HUM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/HUM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IBM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IBM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ICE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ICE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IDXX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IDXX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IFF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IFF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ILMN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ILMN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/INCY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/INCY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/INFO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/INFO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/INTC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/INTC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/INTU_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/INTU_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IPGP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IPGP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IPG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IPG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IQV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IQV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IRM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IRM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ISRG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ISRG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ITW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ITW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/IVZ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/IVZ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JBHT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JBHT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JCI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JCI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JEC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JEC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JNJ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JNJ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JNPR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JNPR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JPM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JPM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/JWN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/JWN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KEY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KEY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KHC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KHC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KIM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KIM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KLAC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KLAC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KMB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KMB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KMI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KMI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KMX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KMX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KORS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KORS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KSS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KSS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/KSU_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/KSU_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/K_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/K_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LEG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LEG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LEN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LEN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LKQ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LKQ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LLL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LLL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LLY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LLY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LMT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LMT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LNC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LNC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LNT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LNT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LOW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LOW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LRCX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LRCX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LUK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LUK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LUV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LUV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/LYB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/LYB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/L_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/L_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MAA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MAA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MAC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MAC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MAR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MAR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MAS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MAS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MAT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MAT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MCD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MCD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MCHP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MCHP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MCK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MCK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MCO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MCO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MDLZ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MDLZ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MDT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MDT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MET_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MET_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MGM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MGM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MHK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MHK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MKC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MKC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MLM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MLM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MMC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MMC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MMM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MMM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MNST_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MNST_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MON_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MON_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MOS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MOS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MPC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MPC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MRK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MRK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MRO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MRO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MSFT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MSFT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MSI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MSI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MTB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MTB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MTD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MTD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MU_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MU_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/MYL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/MYL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/M_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/M_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NAVI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NAVI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NBL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NBL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NCLH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NCLH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NDAQ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NDAQ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NEE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NEE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NEM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NEM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NFLX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NFLX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NFX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NFX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NKE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NKE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NKTR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NKTR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NLSN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NLSN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NOC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NOC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NOV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NOV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NRG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NRG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NSC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NSC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NTAP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NTAP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NTRS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NTRS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NUE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NUE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NVDA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NVDA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NWL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NWL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NWSA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NWSA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/NWS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/NWS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/OKE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/OKE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/OMC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/OMC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ORCL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ORCL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ORLY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ORLY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/OXY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/OXY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/O_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/O_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PAYX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PAYX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PBCT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PBCT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PCAR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PCAR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PCG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PCG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PEG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PEG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PEP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PEP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PFE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PFE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PFG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PFG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PGR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PGR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PHM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PHM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PKG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PKG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PKI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PKI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PLD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PLD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PNC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PNC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PNR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PNR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PNW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PNW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PPG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PPG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PPL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PPL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PRGO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PRGO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PRU_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PRU_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PSA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PSA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PSX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PSX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PVH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PVH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PWR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PWR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PXD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PXD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/PYPL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/PYPL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/QCOM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/QCOM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/QRVO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/QRVO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RCL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RCL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/REGN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/REGN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/REG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/REG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RHI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RHI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RHT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RHT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RJF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RJF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RMD_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RMD_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ROK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ROK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ROP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ROP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ROST_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ROST_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RRC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RRC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RSG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RSG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/RTN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/RTN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SBAC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SBAC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SBUX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SBUX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SCG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SCG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SCHW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SCHW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SEE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SEE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SHW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SHW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SIVB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SIVB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SJM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SJM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SLB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SLB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SLG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SLG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SNA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SNA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SNPS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SNPS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SPGI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SPGI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SPG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SPG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SRCL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SRCL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SRE_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SRE_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/STI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/STI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/STT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/STT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/STX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/STX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/STZ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/STZ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SWKS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SWKS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SWK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SWK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SYF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SYF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SYK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SYK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SYMC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SYMC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/SYY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/SYY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TAP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TAP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TDG_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TDG_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TEL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TEL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TGT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TGT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TIF_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TIF_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TJX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TJX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TMK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TMK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TMO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TMO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TPR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TPR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TRIP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TRIP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TROW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TROW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TRV_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TRV_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TSCO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TSCO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TSN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TSN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TSS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TSS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TTWO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TTWO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TWX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TWX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TXN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TXN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/TXT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/TXT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/T_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/T_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UAA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UAA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UAL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UAL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UDR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UDR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UHS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UHS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ULTA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ULTA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UNH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UNH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UNM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UNM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UNP_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UNP_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UPS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UPS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/URI_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/URI_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/USB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/USB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/UTX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/UTX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VAR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VAR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VFC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VFC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VIAB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VIAB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VLO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VLO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VMC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VMC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VNO_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VNO_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VRSK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VRSK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VRSN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VRSN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VRTX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VRTX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VTR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VTR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/VZ_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/VZ_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/V_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/V_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WAT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WAT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WBA_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WBA_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WDC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WDC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WEC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WEC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WELL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WELL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WFC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WFC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WHR_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WHR_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WLTW_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WLTW_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WMB_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WMB_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WMT_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WMT_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WRK_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WRK_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WU_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WU_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WYNN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WYNN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WYN_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WYN_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/WY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/WY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XEC_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XEC_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XEL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XEL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XLNX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XLNX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XOM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XOM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XRAY_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XRAY_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XRX_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XRX_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/XYL_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/XYL_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/YUM_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/YUM_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ZBH_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ZBH_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ZION_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ZION_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/stock_prices/ZTS_price.csv" afterPath="$PROJECT_DIR$/data/stock_prices/ZTS_price.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetch_data.ipynb" afterPath="$PROJECT_DIR$/fetch_data.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1024,20 +13,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="504_regression_techinques.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/504_regression_techinques.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="84" column="10" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1069,7 +45,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1086,7 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -1126,6 +101,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1263,17 +239,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1311,13 +286,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/504_regression_techinques.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -1330,68 +298,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/google_trends/AAPL_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/AAP_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="245" column="6" lean-forward="true" selection-start-line="245" selection-start-column="6" selection-end-line="245" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/AAL_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/GOOGL_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="19" lean-forward="false" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/ACN_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/A_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1277">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research_question.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/daily/G_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/google_trends/AAPL_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/AAP_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/AAL_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/GOOGL_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/ACN_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/A_gt.csv" />
+    <entry file="file://$PROJECT_DIR$/data/google_trends/daily/G_gt.csv" />
     <entry file="file://$PROJECT_DIR$/data/google_trends/daily/GOOGL_gt.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1399,23 +316,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/google_trends/daily/GOOGLE_gt.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3073">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/google_trends/daily/GOOGLE_gt.csv" />
     <entry file="file://$PROJECT_DIR$/data/google_trends/daily/A_gt.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25417">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1423,7 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2525">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1431,7 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-21112">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1439,14 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fetch_data.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -1454,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1462,17 +359,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/504_regression_techinques.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="84" column="10" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/504_regression_techinques.py" />
+    <entry file="file://$PROJECT_DIR$/research_question.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetch_data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
